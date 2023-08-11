@@ -1,0 +1,14 @@
+1 - Installar o Nodejs com opcionais;
+a finalização da isntalação dos opcionais, que é longa mas fluida,
+quando está no final parece que da uma travada, mas é só esperar.
+
+2 - no terminal: npm install -g @nestjs/cli
+
+3 - no terminal, só para testar: nest
+Aqui pode dar um erro mas tem como corrigir
+
+4 - no terminal, dentro da pasta do projeto: nest new backend
+escolher npm
+
+5- parei em 5m22s do video 1
+
